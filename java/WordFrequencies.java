@@ -41,5 +41,7 @@ public class WordFrequencies {
 
       }
 
+      scnr.close();
+
    }
 }
